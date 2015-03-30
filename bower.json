@@ -1,0 +1,7 @@
+{
+  "name": "map-search",
+  "private": true,
+  "dependencies": {
+  	"jquery": "~1.11.2"
+  }
+}
